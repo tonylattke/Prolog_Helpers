@@ -13,4 +13,4 @@ prolog -s file_name -t main
 | File name        		| Description 												   |
 | --------------------- |------------------------------------------------------------- |
 | 0_hello_world.pl 			| - Hello world to Prolog |
-| 1_values_types.pl 		| - Values and types |
+| 1_values_types.pl 		| - Values and types. Operating variables |
