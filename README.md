@@ -17,3 +17,4 @@ prolog -s file_name -t main
 | 2_functions.pl 			| - Functions structures |
 | 3_data_structures.pl		| - Using basic data structures (tuples,list) |
 | 4_special_functions.pl 	| - Useful functions on prolog: findall, bagof, setof, not and trace |
+| 5_libraries.hs 			| - Date, maths and random functions |
